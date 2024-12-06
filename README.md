@@ -32,7 +32,7 @@
 </p>
 
 ---
-
+<!--
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=jasonpaulraj&theme=rose-pine&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=45%2CBD19EB%2CEB5454)](https://git.io/streak-stats)
 
@@ -45,3 +45,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
+--!>
