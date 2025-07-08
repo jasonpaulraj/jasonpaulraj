@@ -1,4 +1,4 @@
-import type { Route } from "../../.react-router/types/+routes.tsx";
+import type { Route } from "./+types/home";
 import { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, MapPin, ExternalLink, Code, Database, Cloud, Smartphone, Server, Globe, Users, Award, Calendar, Building2, Briefcase, ArrowRight, Sparkles, Zap, Sun, Moon, User, Download, Eye, ToolCaseIcon, AppWindow } from 'lucide-react';
 import { Button } from "../components/ui/button";
