@@ -1,0 +1,13 @@
+{
+  "name": "jp-portfolio",
+  "compatibility_date": "2025-07-08",
+  "main": "build/server/index.js",
+  "assets": {
+    "directory": "build/client"
+  },
+  "build": {
+    "command": "npm run build"
+  },
+  "compatibility_flags": ["nodejs_compat"],
+  "node_compat": true
+}
