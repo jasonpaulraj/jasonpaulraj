@@ -8,6 +8,5 @@
   "build": {
     "command": "npm run build"
   },
-  "compatibility_flags": ["nodejs_compat"],
-  "node_compat": true
+  "compatibility_flags": ["nodejs_compat"]
 }
